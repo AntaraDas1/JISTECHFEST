@@ -1,4 +1,4 @@
-# Football Project with Vue.js
+# Football Project with html , css and js
 
 > You can learn Standings, Results and Goal Kings.<br/>
 > - Spor Toto Super League<br/>
